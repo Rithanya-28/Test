@@ -1,0 +1,21 @@
+.help {
+    padding: 20px;
+  }
+  
+  .help h2 {
+    margin-bottom: 20px;
+  }
+  
+  .help h3 {
+    margin-top: 20px;
+  }
+  
+  .help ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .help li {
+    margin: 10px 0;
+  }
+  

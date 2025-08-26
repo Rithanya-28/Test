@@ -1,0 +1,30 @@
+.history-container {
+    margin-top: 20px;
+  }
+  
+  .history-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .history-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 5px 0;
+    border-radius: 4px;
+  }
+  
+  .history-item button {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .history-item button:hover {
+    background-color: darkred;
+  }
+  
